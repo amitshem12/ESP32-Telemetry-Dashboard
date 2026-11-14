@@ -15,5 +15,5 @@ A standalone, plug-and-play hardware telemetry dashboard for monitoring real-tim
 * **PC Host Script:** Python, PySerial, Requests
 
 ## Project Structure
-* `/host_telemetry_service.py - The data extraction script` - The data extraction script and executable.
+* `/host_telemetry_service.py` - The data extraction script and executable.
 * `/ESP32_Firmware` - The C++ source code for the microcontroller.
